@@ -1,0 +1,3 @@
+[submodule "norns-shield"]
+	path = norns-shield
+	url = git@github.com:monome/norns-shield.git
