@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name _switch)(type KiCad)(uri "${KIPRJMOD}/libs/Switch_C&K Components_PVA1 OA H1 1.2N V2/eec.pretty")(options "")(descr ""))
+  (lib (name _pi_conn)(type KiCad)(uri "${KIPRJMOD}/libs/Conn_Adafruit Industries_1992/eec.pretty")(options "")(descr ""))
+  (lib (name _encoder)(type KiCad)(uri ${KIPRJMOD}/libs/Enc_Bourns_PEC11R-4015F-N0024/eec.pretty)(options "")(descr ""))
+)

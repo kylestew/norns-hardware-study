@@ -1,0 +1,7 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP PVA1 OA H1 1.2N V2
+D PVA1 OA H1 1.2N V2
+F https://www.ckswitches.com/media/1343/pva.pdf
+$ENDCMP
+# end doc library

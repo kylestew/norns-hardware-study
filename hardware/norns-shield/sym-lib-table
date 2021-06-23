@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name norns_symbols)(type Legacy)(uri ${KIPRJMOD}/norns_symbols.lib)(options "")(descr ""))
+)
